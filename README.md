@@ -1,10 +1,10 @@
 # Tech Layoffs Analysis (2020-2025)
 
 ## 📊 Live Dashboard
+![Tech Layoffs](https://github.com/sahilkarande/Tech-Layoffs-Analysis-2020-2025-/blob/main/Dashboard%20Images/Cover%20Page.png)
 
-**You can view and interact with the live dashboard here:** [**LINK TO YOUR PUBLIC POWER BI REPORT**]
 
-*Paste the public link you got from Power BI Service here.*
+
 
 ---
 
