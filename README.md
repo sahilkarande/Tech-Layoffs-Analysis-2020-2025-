@@ -1,7 +1,7 @@
 # Tech Layoffs Analysis (2020-2025)
 
 ## 📊 Live Dashboard
-![Tech Layoffs](https://github.com/sahilkarande/Tech-Layoffs-Analysis-2020-2025-/blob/main/Dashboard%20Images/Cover%20Page.png)
+![Tech Layoffs](https://github.com/sahilkarande/Tech-Layoffs-Analysis-2020-2025-/blob/main/thumbnail2.png)
 
 
 
